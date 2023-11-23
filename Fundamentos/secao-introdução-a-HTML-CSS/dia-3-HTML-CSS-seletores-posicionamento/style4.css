@@ -1,0 +1,33 @@
+div:hover {
+border: 6px solid black;
+}
+
+div:nth-of-type(1) > h3 {
+    background-color: yellow;
+    font-family: Verdana;
+}
+
+div:nth-of-type(2) > h3 {
+    background-color: red;
+    font-family: monospace;
+    font-family: cursive;
+}
+
+div:nth-of-type(3) > h3 {
+    background-color: green;
+    font-family: Georgia;
+    height: 60px;
+}
+
+div:nth-of-type(4) > h3 {
+    background-color: midnightblue;
+    font-family: Cambria;
+}
+
+div:nth-of-type(5) > h3 {
+    background-color: aqua;
+}
+
+div:nth-child(odd) h3 {
+    font-style: italic;
+}
