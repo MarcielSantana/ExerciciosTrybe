@@ -1,0 +1,8 @@
+Git
+Github
+React
+TypeScript
+Mysql
+Internet
+Unix
+Bash
